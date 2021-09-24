@@ -72,6 +72,8 @@
                                 </div>
                                 <p class="file-return"></p>
                                 </form>
+                                
+                                <button type="submit" class="btn btn-primary">SUBMIT</button>
                             </form>
                         </div>
                         <div class="col-lg-2"></div>
