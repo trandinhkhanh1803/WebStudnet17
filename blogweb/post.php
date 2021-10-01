@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                 <h2><i class="fa fa-envelope-open-o bg-orange"></i> Đăng bài <small
-                        class="hidden-xs-down hidden-sm-down">Bạn có cần sự trợ giúp 
+                        class="hidden-xs-down hidden-sm-down">Bạn có cần sự trợ giúp
                     </small></h2>
             </div>
             <!-- end col -->
@@ -30,9 +30,9 @@
             <div class="col-lg-12">
                 <div class="page-wrapper">
                     <div class="row">
-                        <div class="col-lg-2"></div>
-                        <div class="col-lg-8">
-                            <form class="form-wrapper">
+
+                        <div class="col-lg-12">
+                            <form class="form-wrapper" action="_posteddata.php" method="post">
                                 <div class="form-group">
                                     <span>
                                         Tiêu đề
@@ -40,11 +40,13 @@
                                     <span class="text-danger">*</span>
                                     <div class="input-group" style="width: 100%;">
                                         <input type="text" value class="form-control input-lg ">
-                                        
+
                                     </div>
                                 </div>
                                 <p class="text-muted">
-                                    Tiêu đề bắt buộc ghi rõ tên công ty, từng vị trí tuyển dụng và năm tuyển dụng. Chú ý, đôi khi chỉ tên công ty không là không đủ vì không hấp dẫn. VD: Bạn có thể ghi “Công ty đa quốc gia kiểm toán PWC…”   
+                                    Tiêu đề bắt buộc ghi rõ tên công ty, từng vị trí tuyển dụng và năm tuyển dụng. Chú
+                                    ý, đôi khi chỉ tên công ty không là không đủ vì không hấp dẫn. VD: Bạn có thể ghi
+                                    “Công ty đa quốc gia kiểm toán PWC…”
                                 </p>
                                 <div class="form-group">
                                     <span>
@@ -52,8 +54,13 @@
                                     </span>
                                     <span class="text-danger">*</span>
                                     <div class="input-group" style="width: 100%;">
-                                        <input type="text" value class="form-control input-lg ">
-                                        
+
+                                        <textarea name="editor" class="form-control input-lg "></textarea>
+
+
+
+
+
                                     </div>
                                 </div>
                                 <div class="form-group">
@@ -63,17 +70,20 @@
                                     <span class="text-danger">*</span>
                                 </div>
                                 <p class="text-muted">
-                                     Ảnh có dung lượng dưới 200kb và kích cỡ tiêu chuẩn 700x400px. Các ảnh kích cỡ lớn hơn đều có thể gây chậm hoặc không tải được. Ảnh cần rõ nét, phân giải cao để được duyệt bài. Hỗ trợ các định dạng ảnh JPG, PNG, GIF, JPEG. Bạn có thể vào đây để giảm kích thước ảnh
+                                    Ảnh có dung lượng dưới 200kb và kích cỡ tiêu chuẩn 700x400px. Các ảnh kích cỡ lớn
+                                    hơn đều có thể gây chậm hoặc không tải được. Ảnh cần rõ nét, phân giải cao để được
+                                    duyệt bài. Hỗ trợ các định dạng ảnh JPG, PNG, GIF, JPEG. Bạn có thể vào đây để giảm
+                                    kích thước ảnh
                                 </p>
-                                <form action="#">
-                                <div class="input-file-container">  
+
+                                <div class="input-file-container">
                                     <input class="input-file" id="my-file" type="file">
-                                    <label tabindex="0" for="my-file" class="input-file-trigger">Select a file...</label>
+                                    <label tabindex="0" for="my-file" class="input-file-trigger">Chọn tệp...</label>
                                 </div>
                                 <p class="file-return"></p>
-                                </form>
-                                
-                                <button type="submit" class="btn btn-primary">SUBMIT</button>
+
+
+                                <button type="submit" class="btn btn-primary">Đăng bài</button>
                             </form>
                         </div>
                         <div class="col-lg-2"></div>
@@ -105,28 +115,31 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/custom.js"></script>
 <script>
-    document.querySelector("html").classList.add('js');
+document.querySelector("html").classList.add('js');
 
-var fileInput  = document.querySelector( ".input-file" ),  
-    button     = document.querySelector( ".input-file-trigger" ),
+var fileInput = document.querySelector(".input-file"),
+    button = document.querySelector(".input-file-trigger"),
     the_return = document.querySelector(".file-return");
-      
-button.addEventListener( "keydown", function( event ) {  
-    if ( event.keyCode == 13 || event.keyCode == 32 ) {  
-        fileInput.focus();  
-    }  
+
+button.addEventListener("keydown", function(event) {
+    if (event.keyCode == 13 || event.keyCode == 32) {
+        fileInput.focus();
+    }
 });
-button.addEventListener( "click", function( event ) {
-   fileInput.focus();
-   return false;
-});  
-fileInput.addEventListener( "change", function( event ) {  
-    the_return.innerHTML = this.value;  
-});  
+button.addEventListener("click", function(event) {
+    fileInput.focus();
+    return false;
+});
+fileInput.addEventListener("change", function(event) {
+    the_return.innerHTML = this.value;
+});
+</script>
+<script type="text/javascript">
+CKEDITOR.replace('editor');
 </script>
 
 </body>
-
+<script src="//cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script>
 <script src="ui/js/bootstrap.min.js"></script>
 
 

@@ -67,7 +67,7 @@
                         aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <a class="navbar-brand" href="tech-index.php"><img src="images/logo1.png" alt=""></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo1.png" alt=""></a>
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
@@ -102,8 +102,8 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_01.jpg" alt=""
-                                                                                class="img-fluid">
+                                                                            <img src="images/posts/editor-side-1.jpg"
+                                                                                alt="" class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
@@ -124,8 +124,8 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_02.jpg" alt=""
-                                                                                class="img-fluid">
+                                                                            <img src="images/posts/editor-side-2.jpg"
+                                                                                alt="" class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
@@ -146,8 +146,8 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_03.jpg" alt=""
-                                                                                class="img-fluid">
+                                                                            <img src="images/posts/editor-side-3.jpg"
+                                                                                alt="" class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
@@ -168,8 +168,8 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_04.jpg" alt=""
-                                                                                class="img-fluid">
+                                                                            <img src="images/posts/editor-side-4.jpg"
+                                                                                alt="" class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
@@ -195,7 +195,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_05.jpg" alt=""
+                                                                            <img src="images/posts/insp-1.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -218,7 +218,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_06.jpg" alt=""
+                                                                            <img src="images/posts/insp-2.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -241,7 +241,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_07.jpg" alt=""
+                                                                            <img src="images/posts/insp-3.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -264,8 +264,8 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_08.jpg" alt=""
-                                                                                class="img-fluid">
+                                                                            <img src="images/posts/featured-lg.jpg"
+                                                                                alt="" class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
@@ -291,7 +291,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_09.jpg" alt=""
+                                                                            <img src="images/posts/latest-1.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -314,7 +314,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_10.jpg" alt=""
+                                                                            <img src="images/posts/latest-2.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -338,7 +338,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_11.jpg" alt=""
+                                                                            <img src="images/posts/latest-3.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -360,7 +360,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_12.jpg" alt=""
+                                                                            <img src="images/posts/latest-4.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -387,7 +387,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_13.jpg" alt=""
+                                                                            <img src="images/posts/tren-lg-1.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -410,7 +410,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_14.jpg" alt=""
+                                                                            <img src="images/posts/tren-lg-2.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -434,7 +434,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_15.jpg" alt=""
+                                                                            <img src="images/posts/tren-sm-3.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -458,7 +458,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_16.jpg" alt=""
+                                                                            <img src="images/posts/tren-sm-4.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -484,7 +484,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_17.jpg" alt=""
+                                                                            <img src="images/posts/tabs-1.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -508,7 +508,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_18.jpg" alt=""
+                                                                            <img src="images/posts/tabs-2.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -531,7 +531,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_19.jpg" alt=""
+                                                                            <img src="images/posts/tabs-3.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -553,7 +553,7 @@
                                                                 <div class="blog-box">
                                                                     <div class="post-media">
                                                                         <a href="single.php" title="">
-                                                                            <img src="upload/tech_menu_20.jpg" alt=""
+                                                                            <img src="images/posts/tabs-5.jpg" alt=""
                                                                                 class="img-fluid">
                                                                             <div class="hovereffect">
                                                                             </div>
@@ -596,19 +596,14 @@
                         </ul>
                         <ul class="navbar-nav mr-2">
                             <li class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-user"></i></a>
-                            </li>
-                            <li class="nav-item">
-
                                 <a class="nav-link " class="openBtn" onclick="openSearch()"><i
                                         class="fa fa-search"></i></a>
                             </li>
                             <li class="nav-item">
-<<<<<<< Updated upstream
-                                <a class="nav-link" href="#"><i class="fa fa-pencil"></i></a>
-=======
-                                <a class="nav-link" href="./admin.php"><i class="fa fa-user"></i></a>
->>>>>>> Stashed changes
+                                <a class="nav-link" href="./post.php"><i class="fa fa-pencil"></i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"><i class="fa fa-user"></i></a>
                             </li>
                         </ul>
                     </div>

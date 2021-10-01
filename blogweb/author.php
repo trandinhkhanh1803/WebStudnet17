@@ -77,7 +77,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">21 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         1114</a></small>
                             </div><!-- end meta -->
@@ -104,7 +104,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">21 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4412</a></small>
                             </div><!-- end meta -->
@@ -131,7 +131,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">20 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         2313</a></small>
                             </div><!-- end meta -->
@@ -158,7 +158,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">19 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4441</a></small>
                             </div><!-- end meta -->
@@ -185,7 +185,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">18 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         33312</a></small>
                             </div><!-- end meta -->
@@ -212,7 +212,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">17 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4440</a></small>
                             </div><!-- end meta -->
@@ -239,7 +239,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">16 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4412</a></small>
                             </div><!-- end meta -->
@@ -266,7 +266,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">15 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         44123</a></small>
                             </div><!-- end meta -->
@@ -293,7 +293,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Technology</a></small>
                                 <small><a href="single.php" title="">14 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         2214</a></small>
                             </div><!-- end meta -->
@@ -320,7 +320,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Gadgets</a></small>
                                 <small><a href="single.php" title="">13 July, 2017</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         3331</a></small>
                             </div><!-- end meta -->
