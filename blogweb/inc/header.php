@@ -596,19 +596,15 @@
                         </ul>
                         <ul class="navbar-nav mr-2">
                             <li class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-user"></i></a>
-                            </li>
-                            <li class="nav-item">
-
+                                
                                 <a class="nav-link " class="openBtn" onclick="openSearch()"><i
-                                        class="fa fa-search"></i></a>
+                                class="fa fa-search"></i></a>
                             </li>
                             <li class="nav-item">
-<<<<<<< Updated upstream
-                                <a class="nav-link" href="#"><i class="fa fa-pencil"></i></a>
-=======
-                                <a class="nav-link" href="./admin.php"><i class="fa fa-user"></i></a>
->>>>>>> Stashed changes
+                                <a class="nav-link" href="./post.php"><i class="fa fa-pencil"></i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"><i class="fa fa-user"></i></a>
                             </li>
                         </ul>
                     </div>
