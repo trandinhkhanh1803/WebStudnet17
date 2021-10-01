@@ -104,3 +104,7 @@ function closeSearch() {
     document.getElementById("myOverlay").style.display = "none";
 }
 </script>
+<script type="text/javascript">
+CKEDITOR.replace('tomtat');
+</script>
+<script src="//cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script>

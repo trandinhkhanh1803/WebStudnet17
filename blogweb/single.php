@@ -19,7 +19,7 @@
 
                         <div class="blog-meta big-meta">
                             <small><a href="single.php" title="">21 July, 2017</a></small>
-                            <small><a href="tech-author.html" title="">by Jessica</a></small>
+                            <small><a href="author.php" title="">by Jessica</a></small>
                             <small><a href="#" title=""><i class="fa fa-eye"></i> 2344</a></small>
                         </div><!-- end meta -->
 
