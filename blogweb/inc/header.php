@@ -604,7 +604,11 @@
                                         class="fa fa-search"></i></a>
                             </li>
                             <li class="nav-item">
+<<<<<<< Updated upstream
                                 <a class="nav-link" href="#"><i class="fa fa-pencil"></i></a>
+=======
+                                <a class="nav-link" href="./admin.php"><i class="fa fa-user"></i></a>
+>>>>>>> Stashed changes
                             </li>
                         </ul>
                     </div>
