@@ -76,8 +76,20 @@ h5 {
 }
 
 .first-slot .post-media img {
-    width: 790px;
+    width: 885px;
     height: 450px;
+}
+
+@media (max-width:668px) {
+    .first-slot .post-media img {
+        width: 300px;
+    }
+}
+
+@media (max-width:768px) {
+    .first-slot .post-media img {
+        width: 337px;
+    }
 }
 
 .second-slot {

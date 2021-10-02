@@ -12,7 +12,7 @@
                                 <h4><a href="single.php" title="">Bí quyết đầu tư tài chính dành cho Gen Z từ
                                         các chuyên gia</a></h4>
                                 <small><a href="single.php" title="">24 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Khanh</a></small>
+                                <small><a href="author.php" title="">by Khanh</a></small>
                             </div>
                             <!-- end meta -->
                         </div>
@@ -54,7 +54,7 @@
                             <!-- post  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-1.jpg" alt="">
                                         </div>
@@ -62,7 +62,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Gen Z mình đầu tư Bitcoin như thế nào</a>
+                                        <a href="single.php">Gen Z mình đầu tư Bitcoin như thế nào</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -73,7 +73,7 @@
                             <!-- post2  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-2.jpg" alt="">
                                         </div>
@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Gặp gỡ chuyên gia Truyền thông sáng tạo của Vietcetera</a>
+                                        <a href="single.php">Gặp gỡ chuyên gia Truyền thông sáng tạo của Vietcetera</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -92,7 +92,7 @@
                             <!-- post3  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-3.jpg" alt="">
                                         </div>
@@ -100,7 +100,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Bạn chắc chắn đã đầu tư tài chính đúng cách?</a>
+                                        <a href="single.php">Bạn chắc chắn đã đầu tư tài chính đúng cách?</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -111,7 +111,7 @@
                             <!-- post4  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="/images/posts/tabs-4.png" alt="">
                                         </div>
@@ -119,7 +119,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Cải thiện kỹ năng với Grammarly dành cho Gen Z</a>
+                                        <a href="single.php">Cải thiện kỹ năng với Grammarly dành cho Gen Z</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -134,7 +134,7 @@
                             <!-- post  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-2.jpg" alt="">
                                         </div>
@@ -142,7 +142,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Gặp gỡ chuyên gia Truyền thông sáng tạo của Vietcetera</a>
+                                        <a href="single.php">Gặp gỡ chuyên gia Truyền thông sáng tạo của Vietcetera</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -153,7 +153,7 @@
                             <!-- post2  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-1.jpg" alt="">
                                         </div>
@@ -161,7 +161,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Gen Z mình đầu tư Bitcoin như thế nào</a>
+                                        <a href="single.php">Gen Z mình đầu tư Bitcoin như thế nào</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -172,7 +172,7 @@
                             <!-- post3  -->
                             <div class="post post-list-sm circle">
                                 <div class="thumb circle">
-                                    <a href="#">
+                                    <a href="single.php">
                                         <div class="inner">
                                             <img src="ui/images/posts/tabs-5.jpg" alt="">
                                         </div>
@@ -180,7 +180,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Cây viết của giới trẻ thuộc về ai?</a>
+                                        <a href="single.php">Cây viết của giới trẻ thuộc về ai?</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -199,7 +199,7 @@
                                 </div>
                                 <div class="details clearfix">
                                     <h6 class="post-title my-0">
-                                        <a href="#">Bạn chắc chắn đã đầu tư tài chính đúng cách?</a>
+                                        <a href="single.php">Bạn chắc chắn đã đầu tư tài chính đúng cách?</a>
                                     </h6>
                                     <div class="blog-meta big-meta col-md-8">
                                         <small><a href="single.php" title="">21 July, 2021</a></small>
@@ -234,7 +234,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_01.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-1.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -248,10 +248,9 @@
                                 <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et
                                     pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh,
                                     maximus ac felis nec, maximus tempor odio.</p>
-                                <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
-                                        title="">Gadgets</a></small>
+                                <small class="firstsmall"><a class="bg-orange" href="#" title="">Gadgets</a></small>
                                 <small><a href="single.php" title="">21 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         1114</a></small>
                             </div>
@@ -265,7 +264,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_02.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-2.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -279,10 +278,9 @@
                                 <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et
                                     pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh,
                                     maximus ac felis nec, maximus tempor odio.</p>
-                                <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
-                                        title="">Công nghệ</a></small>
+                                <small class="firstsmall"><a class="bg-orange" href="#" title="">Công nghệ</a></small>
                                 <small><a href="single.php" title="">21 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4412</a></small>
                             </div>
@@ -296,7 +294,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_03.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-3.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -310,10 +308,9 @@
                                 <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et
                                     pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh,
                                     maximus ac felis nec, maximus tempor odio.</p>
-                                <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
-                                        title="">Development</a></small>
+                                <small class="firstsmall"><a class="bg-orange" href="#" title="">Development</a></small>
                                 <small><a href="single.php" title="">20 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         2313</a></small>
                             </div>
@@ -327,7 +324,7 @@
                             <div class="col-lg-10 offset-lg-1">
                                 <div class="banner-spot clearfix">
                                     <div class="banner-img">
-                                        <img src="upload/banner_02.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/720X90.png" alt="" class="img-fluid">
                                     </div>
                                     <!-- end banner-img -->
                                 </div>
@@ -343,7 +340,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_04.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-1.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -360,7 +357,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Design</a></small>
                                 <small><a href="single.php" title="">19 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4441</a></small>
                             </div>
@@ -374,7 +371,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_05.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-2.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -391,7 +388,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Materials</a></small>
                                 <small><a href="single.php" title="">18 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         33312</a></small>
                             </div>
@@ -405,7 +402,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_06.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-4.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -422,7 +419,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Gadgets</a></small>
                                 <small><a href="single.php" title="">17 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4440</a></small>
                             </div>
@@ -436,7 +433,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_07.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-1.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -453,7 +450,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Công nghệ</a></small>
                                 <small><a href="single.php" title="">16 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         4412</a></small>
                             </div>
@@ -467,7 +464,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_08.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-3.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -484,7 +481,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Reviews</a></small>
                                 <small><a href="single.php" title="">15 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         44123</a></small>
                             </div>
@@ -498,7 +495,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_09.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-2.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -515,7 +512,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Công nghệ</a></small>
                                 <small><a href="single.php" title="">14 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         2214</a></small>
                             </div>
@@ -529,7 +526,7 @@
                             <div class="col-md-4">
                                 <div class="post-media">
                                     <a href="single.php" title="">
-                                        <img src="upload/tech_blog_10.jpg" alt="" class="img-fluid">
+                                        <img src="images/posts/tren-sm-4.jpg" alt="" class="img-fluid">
                                         <div class="hovereffect"></div>
                                     </a>
                                 </div>
@@ -546,7 +543,7 @@
                                 <small class="firstsmall"><a class="bg-orange" href="tech-category-01.html"
                                         title="">Gadgets</a></small>
                                 <small><a href="single.php" title="">13 July, 2021</a></small>
-                                <small><a href="tech-author.html" title="">by Matilda</a></small>
+                                <small><a href="author.php" title="">by Matilda</a></small>
                                 <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                         3331</a></small>
                             </div>

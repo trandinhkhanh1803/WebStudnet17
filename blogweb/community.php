@@ -54,7 +54,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -87,7 +87,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -120,7 +120,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -153,7 +153,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -186,7 +186,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -219,7 +219,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -252,7 +252,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -285,7 +285,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -318,7 +318,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -351,7 +351,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -384,7 +384,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>
@@ -417,7 +417,7 @@
                                                 Vivamus
                                                 enim nibh.</p>
                                             <small><a href="single.php" title="">14 July, 2017</a></small>
-                                            <small><a href="tech-author.html" title="">by Jack</a></small>
+                                            <small><a href="author.php" title="">by Jack</a></small>
                                             <small><a href="single.php" title=""><i class="fa fa-eye"></i>
                                                     2887</a></small>
                                         </div>

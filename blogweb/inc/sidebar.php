@@ -2,7 +2,8 @@
     <div class="widget">
         <div class="banner-spot clearfix">
             <div class="banner-img">
-                <img src="upload/banner_07.jpg" alt="" class="img-fluid">
+                <img src="images/posts/banner-quang-cao-khach-san-mytour-bloghalongbay-300x600-1.gif" alt=""
+                    class="img-fluid">
             </div>
             <!-- end banner-img -->
         </div>
@@ -16,7 +17,8 @@
             <div class="blog-box">
                 <div class="post-media">
                     <a href="single.php" title="">
-                        <img src="upload/tech_video_01.jpg" alt="" class="img-fluid">
+                        <iframe src="https://www.youtube.com/embed/Gu1so3pz4bA" title="YouTube video player"
+                            frameborder="0"></iframe>
                         <div class="hovereffect">
                             <span class="videohover"></span>
                         </div>
@@ -37,7 +39,8 @@
             <div class="blog-box">
                 <div class="post-media">
                     <a href="single.php" title="">
-                        <img src="upload/tech_video_02.jpg" alt="" class="img-fluid">
+                        <iframe src="https://www.youtube.com/embed/Gu1so3pz4bA" title="YouTube video player"
+                            frameborder="0"></iframe>
                         <div class="hovereffect">
                             <span class="videohover"></span>
                         </div>
@@ -58,7 +61,8 @@
             <div class="blog-box">
                 <div class="post-media">
                     <a href="single.php" title="">
-                        <img src="upload/tech_video_03.jpg" alt="" class="img-fluid">
+                        <iframe src="https://www.youtube.com/embed/Gu1so3pz4bA" title="YouTube video player"
+                            frameborder="0"></iframe>
                         <div class="hovereffect">
                             <span class="videohover"></span>
                         </div>
@@ -84,7 +88,7 @@
             <div class="list-group">
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 justify-content-between">
-                        <img src="upload/tech_blog_08.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-1.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">5 Beautiful buildings you need..</h5>
                         <small>12 Jan, 2016</small>
                     </div>
@@ -92,7 +96,7 @@
 
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 justify-content-between">
-                        <img src="upload/tech_blog_01.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-2.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">Let's make an introduction for..</h5>
                         <small>11 Jan, 2016</small>
                     </div>
@@ -100,7 +104,7 @@
 
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 last-item justify-content-between">
-                        <img src="upload/tech_blog_03.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-3.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">Did you see the most beautiful..</h5>
                         <small>07 Jan, 2016</small>
                     </div>
@@ -117,7 +121,7 @@
             <div class="list-group">
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 justify-content-between">
-                        <img src="upload/tech_blog_02.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-1.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">Banana-chip chocolate cake recipe..</h5>
                         <span class="rating">
                             <i class="fa fa-star"></i>
@@ -131,7 +135,7 @@
 
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 justify-content-between">
-                        <img src="upload/tech_blog_03.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-2.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">10 practical ways to choose organic..</h5>
                         <span class="rating">
                             <i class="fa fa-star"></i>
@@ -145,7 +149,7 @@
 
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="w-100 last-item justify-content-between">
-                        <img src="upload/tech_blog_07.jpg" alt="" class="img-fluid float-left">
+                        <img src="images/posts/insp-3.jpg" alt="" class="img-fluid float-left">
                         <h5 class="mb-1">We are making homemade ravioli..</h5>
                         <span class="rating">
                             <i class="fa fa-star"></i>
@@ -200,7 +204,7 @@
     <div class="widget">
         <div class="banner-spot clearfix">
             <div class="banner-img">
-                <img src="upload/banner_03.jpg" alt="" class="img-fluid">
+                <img src="images/posts/chup-anh-quang-cao-grabcar-3+copy.jpg" alt="" class="img-fluid">
             </div>
             <!-- end banner-img -->
         </div>
