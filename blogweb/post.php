@@ -192,7 +192,7 @@
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 
 <script src="assets/vendors/jquery/jquery.min.js"></script>
-<script src="assets/vendors/summernote/summernote-lite.min.js"></script>
+<script src="assets/vendors/summernote/summernote-lite.js"></script>
 <script>
     $('#summernote').summernote({
         tabsize: 2,
