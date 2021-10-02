@@ -65,7 +65,7 @@
                         </li>
                         <li class="sidebar-item  ">
                             <a href="admin.php" class='sidebar-link'>
-                                <i class="bi bi-grid-fill"></i>
+                                <i class="bi bi-octagon-fill"></i>
                                 <span>Thành Tích</span>
                             </a>
                         </li>
@@ -87,7 +87,7 @@
                         <li class="sidebar-title">Dành cho bạn</li>
                         <li class="sidebar-item  ">
                             <a href="admin.php" class='sidebar-link'>
-                                <i class="bi bi-box-arrow-right"></i>
+                                <i class="bi bi-diagram-3-fill"></i>
                                 <span>Administration</span>
                             </a>
                         </li>
