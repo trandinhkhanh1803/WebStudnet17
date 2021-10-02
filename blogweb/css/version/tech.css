@@ -80,6 +80,18 @@ h5 {
     height: 450px;
 }
 
+@media (max-width:668px) {
+    .first-slot .post-media img {
+        width: 300px;
+    }
+}
+
+@media (max-width:768px) {
+    .first-slot .post-media img {
+        width: 337px;
+    }
+}
+
 .second-slot {
     float: right;
     width: 35%;

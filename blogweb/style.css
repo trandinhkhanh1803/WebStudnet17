@@ -1202,6 +1202,12 @@ hr.invis3 {
     opacity: 1;
 }
 
+@media (max-width:991px) {
+    .shadoweffect {
+        right: 30px;
+    }
+}
+
 .shadow-desc {
     position: absolute;
     bottom: 0;
