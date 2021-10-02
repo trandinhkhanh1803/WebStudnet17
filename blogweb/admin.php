@@ -40,13 +40,13 @@
                     <ul class="menu">
                         <li class="sidebar-title">Menu</li>
                         <li class="sidebar-item active ">
-                            <a href="admin.php" class='sidebar-link'>
+                            <a href="./admin.php" class='sidebar-link'>
                                 <i class="bi bi-grid-fill"></i>
                                 <span>Dashboard</span>
                             </a>
                         </li>
                         <li class="sidebar-item  ">
-                            <a href="admin.php" class='sidebar-link'>
+                            <a href="./post.php" class='sidebar-link'>
                                 <i class="bi bi-pen-fill"></i>
                                 <span>Đăng bài</span>
                             </a>
@@ -77,11 +77,26 @@
                         </li>
                         <li class="sidebar-item  ">
                             <a href="admin.php" class='sidebar-link'>
-                                <i class="bi bi-grid-fill"></i>
+                                <i class="bi bi-box-arrow-right"></i>
                                 <span>Đăng xuất</span>
                             </a>
                         </li>
                                    
+                    </ul>
+                    <ul class="menu">
+                        <li class="sidebar-title">Dành cho bạn</li>
+                        <li class="sidebar-item  ">
+                            <a href="admin.php" class='sidebar-link'>
+                                <i class="bi bi-box-arrow-right"></i>
+                                <span>Administration</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item  ">
+                            <a href="admin.php" class='sidebar-link'>
+                                <i class="bi bi-file-earmark-spreadsheet-fill"></i>
+                                <span>Database</span>
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
