@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -52,7 +51,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item  ">
-                            <a href="admin.php" class='sidebar-link'>
+                            <a href="blog.php" class='sidebar-link'>
                                 <i class="bi bi-file-earmark-medical-fill"></i>
                                 <span>Bài viết</span>
                             </a>
@@ -81,7 +80,7 @@
                                 <span>Đăng xuất</span>
                             </a>
                         </li>
-                                   
+
                     </ul>
                     <ul class="menu">
                         <li class="sidebar-title">Dành cho bạn</li>
