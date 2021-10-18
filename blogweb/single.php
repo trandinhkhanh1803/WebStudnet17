@@ -1,5 +1,5 @@
 <?php include 'inc/header.php'; ?>
-
+<?php include 'visitor/index.php'?>
 <section class="section single-wrapper">
     <div class="container">
         <div class="row">
