@@ -1,4 +1,5 @@
 <?php include 'inc/header.php'; ?>
+<?php include 'visitor/index.php'?>
 <section class="section first-section">
     <div class="container-fluid">
         <div class="masonry-blog clearfix">
